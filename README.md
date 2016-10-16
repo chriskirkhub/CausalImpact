@@ -4,7 +4,7 @@ A 32bit Windows build of the CausalImpact package by google
 
 Download or clone the Windows zip file and use this command in (say) RStudio:
 
-install.packages("C:/Users/yourname/Downloads/CausalImpact-master.zip")
+install.packages("C:/Users/yourname/Downloads/CausalImpactWin32-master.zip")
 
 Please note that this is not my code.  It was developed by Google Inc:
 
