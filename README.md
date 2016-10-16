@@ -12,7 +12,9 @@ https://google.github.io/CausalImpact/CausalImpact.html
 
 https://github.com/google/CausalImpact
 
-Author: Kay Broderson
+Author: Kay H. Brodersen <kbrodersen@google.com>
+
+Maintainer: Kay H. Brodersen <kbrodersen@google.com>
 
 Apache Licence:
 
