@@ -1,4 +1,4 @@
-# CausalImpact
+# CausalImpactWin32
 
 A 32bit Windows build of the CausalImpact package by google
 
